@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <body>
-    <h1>📊 Projeto de Banco de Dados SQLite com Node.js</h1>
+    <h1>📊 Projeto de Banco de Dados SQLite com Node.js realizado durante a aula 15 do modulo 4 da Programadores do Amanhã </h1>
     <p>Este projeto foi desenvolvido durante a <strong>Aula 15 do Módulo 4</strong> do curso <strong>Programadores do Amanhã</strong>. O objetivo é aplicar os conceitos aprendidos em aula sobre a criação e manipulação de um banco de dados usando SQLite e Node.js.</p>
     <h2>🚀 Visão Geral</h2>
     <p>A aplicação cria um banco de dados SQLite chamado <code>animal.db</code> e gerencia três tabelas distintas:</p>
